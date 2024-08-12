@@ -1,0 +1,10 @@
+{
+  "name": "Resident evil 2 sounds",
+  "description": "Resident evil 2 Steam UI sounds",
+  "author": "Kami544",
+  "version": "v1.0",
+  "manifest_version": 2,
+  "music": false,
+  "ignore": [],
+  "mappings": {}
+}
